@@ -3,7 +3,7 @@ var wins = 0;
 var lost = 0;
 var guesses = 9;
 var lettersUsed = [];
-var computerLetter
+var computerLetter;
 
 // We are given an array that holds all of the drinks available
 var computerChoices = [
